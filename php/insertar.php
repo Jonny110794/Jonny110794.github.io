@@ -7,6 +7,6 @@ $mensaje = $_POST['mensaje'];
 $contenido = 'Nombre:' . $nombre . '\nCorreo' . $correo . '\nApellidos' . $apellidos . '\nMensaje' . $mensaje;
 
 mail($destino, 'Nombre', $contenido);
-header('Location:https://endozoic-millimeter.000webhostapp.com/#');
+header('Location:https://jonny110794.github.io/#');
 
 ?>
