@@ -1286,6 +1286,10 @@ font-size: 18px;
 .pop-1{
     margin-top: 85%;
 }
+	
+.grid{
+    display: block;
+}
 
 
 
@@ -1341,6 +1345,10 @@ font-size: 18px;
 h2 {
     font-size: 13px;
 }
+	
+.grid{
+    display: block;
+}	
 
 }
 
@@ -1592,6 +1600,10 @@ margin-top: 10%;
 .parra ul{
     font-size: 22px;
 }
+	
+.grid{
+    display: block;
+}	
 
 }
 
@@ -1611,6 +1623,10 @@ margin-top: 10%;
 .datos-1{
     margin-top: 200%;
 }
+	
+.grid{
+    display: block;
+}	
 
 }
 
@@ -1641,6 +1657,10 @@ margin-top: 10%;
 .parra ul{
     font-size: 18px;
 }
+	
+.grid{
+    display: block;
+}	
 
 }
 
@@ -1654,6 +1674,10 @@ margin-top: 10%;
 .parra ul{
     font-size: 15px;
 }
+	
+.grid{
+    display: block;
+}	
 
 }
 
@@ -1675,6 +1699,10 @@ margin-top: 10%;
     margin-left: 10%;
 }
 
+.grid{
+    display: block;
+}	
+
 .btn{
     margin-left: 85%;
 }
@@ -1693,6 +1721,10 @@ table td{
 .body h6{
     font-size: 12px;
 }
+	
+.grid{
+    display: block;
+}	
 
 .body{
     margin-top: 160%;
