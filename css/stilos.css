@@ -856,9 +856,13 @@ strong{
 }
 
 .grid{
-    width: 100%;
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
     margin-left: 10%;
-    margin-top:10%;		
 }
 
 .pop-1{
@@ -906,11 +910,6 @@ strong{
 .logo img{
     width: 400%;
 }
-	
-.grid{
-    width: 100%;
-    margin-top:10%;		
-}
 
 .pop-1{
     margin-top: 55%;
@@ -924,6 +923,16 @@ strong{
     height: 100%;
     width: 100%;
 }
+	
+.grid{
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
+}	
 
 }
 
@@ -942,8 +951,13 @@ strong{
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }	
 
 
@@ -959,8 +973,13 @@ strong{
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }	
 
 .logo img{
@@ -983,8 +1002,13 @@ strong{
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }	
 
 .form-title{
@@ -1023,12 +1047,14 @@ strong{
 .body{
     margin-top: 58%;
 }
-
 .grid{
-    margin-left: 14%;
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
 
+.grid .row{
+    margin-left: 10%;
 }	
 
 .pop-1{
@@ -1053,8 +1079,13 @@ strong{
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }	
 }
 
@@ -1073,8 +1104,13 @@ strong{
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }	
     
 }
@@ -1093,8 +1129,13 @@ strong{
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }
 
 }
@@ -1121,8 +1162,13 @@ strong{
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }	
 
 .datos-1{
@@ -1141,8 +1187,13 @@ strong{
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }
 
 }
@@ -1156,8 +1207,13 @@ strong{
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }	
 
 }
@@ -1171,8 +1227,13 @@ strong{
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }
 }
 
@@ -1193,10 +1254,14 @@ strong{
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
-}	
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
 
+.grid .row{
+    margin-left: 10%;
+}
 }
 
 
@@ -1217,8 +1282,13 @@ strong{
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }	
 
 
@@ -1255,8 +1325,13 @@ strong{
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }	
 
 
@@ -1298,6 +1373,7 @@ strong{
 .grid{
     display: block;
     width: 80%;
+    margin-top:10%;
 }
 
 .grid .row{
@@ -1369,8 +1445,13 @@ font-size: 18px;
 	
 .grid{
     display: block;
-    width: 100%;		
+    width: 80%;
+    margin-top:10%;
 }
+
+.grid .row{
+    margin-left: 10%;
+}}
 
 
 
@@ -1397,7 +1478,12 @@ font-size: 18px;
 	
 .grid{
     display: block;
-    width: 100%;		
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }
 	
 .tol h6{
@@ -1443,7 +1529,12 @@ h2 {
 	
 .grid{
     display: block;
-    width: 100%;		
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }
 	
 .tol h6{
@@ -1469,8 +1560,13 @@ h2 {
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }	
 
 .imagen{
@@ -1503,10 +1599,14 @@ h2 {
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
-}	
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
 
+.grid .row{
+    margin-left: 10%;
+}
 
 }
 
@@ -1523,10 +1623,14 @@ h2 {
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
-}	
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
 
+.grid .row{
+    margin-left: 10%;
+}
 
 .body{
     margin-top: 60%;
@@ -1561,8 +1665,13 @@ h2 {
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }	
 
 }
@@ -1579,11 +1688,14 @@ h2 {
 }
 
 .grid{
-    margin-left: 15%;
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
 
-}	
+.grid .row{
+    margin-left: 10%;
+}
 
 }
 
@@ -1600,9 +1712,14 @@ h2 {
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
-}	
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
+}
 
 }
 
@@ -1619,10 +1736,14 @@ h2 {
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
 }
 
+.grid .row{
+    margin-left: 10%;
+}
 }
 
 
@@ -1639,8 +1760,13 @@ h2 {
 }
 
 .grid{
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }
 	
 }
@@ -1658,8 +1784,13 @@ h2 {
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }	
 
 }
@@ -1676,8 +1807,13 @@ h2 {
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }	
                     
 .logo img{
@@ -1694,8 +1830,13 @@ h2 {
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }	
 
 .body{
@@ -1733,8 +1874,13 @@ h2 {
 }
 	
 .grid{
-    width: 100%;
-    margin-top:10%;		
+    display: block;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }	
 
 }
@@ -1766,7 +1912,12 @@ margin-top: 10%;
 	
 .grid{
     display: block;
-    width: 100%;		
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }
 	
 .tol h6{
@@ -1799,7 +1950,12 @@ margin-top: 10%;
 	
 .grid{
     display: block;
-    width: 100%;		
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }
 	
 .tol h6{
@@ -1843,7 +1999,12 @@ margin-top: 10%;
 	
 .grid{
     display: block;
-    width: 100%;		
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }
 	
 .tol h6{
@@ -1870,7 +2031,12 @@ margin-top: 10%;
 	
 .grid{
     display: block;
-    width: 100%;		
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }
 	
 .tol h6{
@@ -1904,7 +2070,12 @@ margin-top: 10%;
 
 .grid{
     display: block;
-    width: 100%;		
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }	
 
 .btn{
@@ -1940,10 +2111,13 @@ table td{
     margin-bottom: 20%;
 }
 .grid{
-    margin-left: 25%;
     display: block;
-    width: 100%;
-    padding: 10px;
+    width: 80%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 10%;
 }
 
 .row p{
