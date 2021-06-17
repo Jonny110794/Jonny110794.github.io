@@ -1476,8 +1476,8 @@ font-size: 18px;
 	
 .grid{
     display: block;
-    width: 100%;
     margin-top:10%;
+    width:100%;
 }
 
 .grid .row{
@@ -1491,7 +1491,7 @@ font-size: 18px;
 
 .tol{
     margin-left: 25%;
-    width: 100%;
+    width: 90%;
 }	
 
 }
