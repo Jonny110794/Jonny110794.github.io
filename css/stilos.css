@@ -888,6 +888,11 @@ strong{
 .infeccion img{
     margin-left: -25%;
 }
+	
+	
+.grid{
+     margin-top:10%;	
+}
 
 
 @media screen and (max-width: 990px){
@@ -906,6 +911,10 @@ strong{
 .logo img{
     width: 400%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 
 .pop-1{
@@ -936,6 +945,10 @@ strong{
     width: 20%;
     margin-top: 4%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 
 }
@@ -948,6 +961,10 @@ strong{
 .logo{
     width: 40%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 .logo img{
     width: 38%;
@@ -967,6 +984,10 @@ strong{
 .logo img{
     width: 40%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 .form-title{
     font-size: 18px;
@@ -1008,6 +1029,10 @@ strong{
 .grid{
     margin-left: 14%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 .pop-1{
     margin-top: 58%;
@@ -1029,6 +1054,10 @@ strong{
 .logo img{
     width: 30%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 }
 
 
@@ -1044,6 +1073,10 @@ strong{
 .logo img{
     width: 30%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
     
 }
 
@@ -1059,6 +1092,10 @@ strong{
 .logo img{
     width: 25%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 }
 
@@ -1082,6 +1119,10 @@ strong{
 .pop-1{
     margin-top: 63%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 .datos-1{
     margin-top: 125%;
@@ -1096,7 +1137,11 @@ strong{
 
 .logo{
     width: 35%;
-}    
+}
+	
+.grid{
+     margin-top:10%;	
+}	
 
 }
 
@@ -1106,7 +1151,11 @@ strong{
 
 .logo{
     width: 30%;
-}    
+}
+	
+.grid{
+     margin-top:10%;	
+}	
 
 }
 
@@ -1117,6 +1166,10 @@ strong{
 .logo{
     display: none;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 }
 
@@ -1135,6 +1188,10 @@ strong{
 .datos-1{
     margin-top: 135%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 }
 
@@ -1154,6 +1211,10 @@ strong{
     width: 130%;
     height: 80%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 
 .tex h6{
@@ -1187,6 +1248,10 @@ strong{
 .pop-1{
     margin-top: 75%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 
 
@@ -1223,6 +1288,10 @@ strong{
 .menu a{
     text-align: center;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 .menu a:hover{
     transform: translateY(5%);
@@ -1369,6 +1438,10 @@ h2 {
 .logo{
     width: 20%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 .imagen{
     display: none;
@@ -1398,6 +1471,10 @@ h2 {
 .logo img{
     width: 500%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 
 }
@@ -1413,6 +1490,10 @@ h2 {
 .logo img{
     width: 110%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 
 .body{
@@ -1446,6 +1527,10 @@ h2 {
     width: 100%;
     margin-left: 15%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 }
 
@@ -1463,6 +1548,10 @@ h2 {
 .grid{
     margin-left: 15%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 }
 
@@ -1477,6 +1566,10 @@ h2 {
 .logo img{
     width: 110%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 }
 
@@ -1491,6 +1584,10 @@ h2 {
 .logo img{
     width: 90%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 }
 
@@ -1507,6 +1604,10 @@ h2 {
     width: 70%;
 }
 
+.grid{
+     margin-top:10%;	
+}
+	
 }
 
 
@@ -1520,6 +1621,10 @@ h2 {
 .logo img{
     width: 60%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 }
 
@@ -1533,6 +1638,10 @@ h2 {
     width: 20%;
     margin-top: 4%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
                     
 .logo img{
     width: 50%;
@@ -1546,6 +1655,10 @@ h2 {
 .logo{
     display: none;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 .body{
     margin-top: 65%;
@@ -1580,6 +1693,10 @@ h2 {
 .datos-1{
     margin-top: 150%;
 }
+	
+.grid{
+     margin-top:10%;	
+}	
 
 }
 
