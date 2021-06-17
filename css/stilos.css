@@ -1782,6 +1782,12 @@ margin-top: 10%;
 	
 .grid{
     display: block;
+    width: 75%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 5%;
 }
 	
 .tol h6{
@@ -1814,6 +1820,12 @@ margin-top: 10%;
 	
 .grid{
     display: block;
+    width: 75%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 5%;
 }
 	
 .tol h6{
@@ -1857,6 +1869,12 @@ margin-top: 10%;
 	
 .grid{
     display: block;
+    width: 75%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 5%;
 }
 	
 .tol h6{
@@ -1883,6 +1901,12 @@ margin-top: 10%;
 	
 .grid{
     display: block;
+    width: 75%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 5%;
 }
 	
 .tol h6{
@@ -1916,6 +1940,12 @@ margin-top: 10%;
 
 .grid{
     display: block;
+    width: 75%;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 5%;
 }
 
 .btn{
@@ -1951,10 +1981,13 @@ table td{
     margin-bottom: 20%;
 }
 .grid{
-    margin-left: 25%;
     display: block;
     width: 75%;
-    padding: 10px;
+    margin-top:10%;
+}
+
+.grid .row{
+    margin-left: 5%;
 }
 
 .row p{
