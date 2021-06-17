@@ -1289,6 +1289,7 @@ font-size: 18px;
 	
 .grid{
     display: block;
+    width: 50%;		
 }
 
 
@@ -1313,6 +1314,11 @@ font-size: 18px;
     width: 100%;
     margin-left: 5%;
 }
+	
+.grid{
+    display: block;
+    width: 50%;		
+}	
 
 }
 
@@ -1348,7 +1354,8 @@ h2 {
 	
 .grid{
     display: block;
-}	
+    width: 50%;		
+}
 
 }
 
@@ -1603,6 +1610,7 @@ margin-top: 10%;
 	
 .grid{
     display: block;
+    width: 50%;		
 }	
 
 }
@@ -1626,7 +1634,8 @@ margin-top: 10%;
 	
 .grid{
     display: block;
-}	
+    width: 50%;		
+}
 
 }
 
@@ -1660,6 +1669,7 @@ margin-top: 10%;
 	
 .grid{
     display: block;
+    width: 50%;		
 }	
 
 }
@@ -1677,6 +1687,7 @@ margin-top: 10%;
 	
 .grid{
     display: block;
+    width: 50%;		
 }	
 
 }
@@ -1701,6 +1712,7 @@ margin-top: 10%;
 
 .grid{
     display: block;
+    width: 50%;		
 }	
 
 .btn{
@@ -1720,10 +1732,6 @@ table td{
 
 .body h6{
     font-size: 12px;
-}
-	
-.grid{
-    display: block;
 }	
 
 .body{
@@ -1733,7 +1741,7 @@ table td{
 .grid{
     margin-left: 25%;
     display: block;
-    width: 75%;
+    width: 50%;
     padding: 10px;
 }
 
