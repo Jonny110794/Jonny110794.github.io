@@ -1476,12 +1476,13 @@ font-size: 18px;
 	
 .grid{
     display: block;
-    width: 20%;
+    width: 100%;
     margin-top:10%;
 }
 
 .grid .row{
     margin-left: 5%;
+    width:60%;
 }
 	
 .tol h6{
