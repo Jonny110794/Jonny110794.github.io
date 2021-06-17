@@ -1477,10 +1477,6 @@ font-size: 18px;
 .grid{
     display: block;
 }
-
-.grid .row{
-    margin-left: -3%;
-}
 	
 .tol h6{
     font-size: 15px;
@@ -1526,10 +1522,6 @@ h2 {
 .grid{
     display: block;
 }
-
-.grid .row{
-    margin-left: -3%;
-}
 	
 .tol h6{
     font-size: 15px;
@@ -1551,14 +1543,6 @@ h2 {
 
 .logo{
     width: 20%;
-}
-	
-.grid{
-    display: block;
-}
-
-.grid .row{
-    margin-left: -3%;
 }	
 
 .imagen{
@@ -1589,14 +1573,6 @@ h2 {
 .logo img{
     width: 500%;
 }
-	
-.grid{
-    display: block;
-}
-
-.grid .row{
-    margin-left: -3%;
-}
 
 }
 
@@ -1610,14 +1586,6 @@ h2 {
 
 .logo img{
     width: 110%;
-}
-	
-.grid{
-    display: block;
-}
-
-.grid .row{
-    margin-left: -3%;
 }
 
 .body{
@@ -1650,14 +1618,6 @@ h2 {
     font-size: 15px;
     width: 100%;
     margin-left: 15%;
-}
-	
-.grid{
-    display: block;
-}
-
-.grid .row{
-    margin-left: -3%;
 }	
 
 }
@@ -1674,11 +1634,7 @@ h2 {
 }
 
 .grid{
-    display: block;
-}
-
-.grid .row{
-    margin-left: -3%;
+    margin-left: 15%;
 }
 
 }
@@ -1694,14 +1650,6 @@ h2 {
 .logo img{
     width: 110%;
 }
-	
-.grid{
-    display: block;
-}
-
-.grid .row{
-    margin-left: -3%;
-}
 
 }
 
@@ -1715,14 +1663,6 @@ h2 {
         
 .logo img{
     width: 90%;
-}
-	
-.grid{
-    display: block;
-}
-
-.grid .row{
-    margin-left: -3%;
 }
 }
 
@@ -1738,14 +1678,6 @@ h2 {
 .logo img{
     width: 70%;
 }
-
-.grid{
-    display: block;
-}
-
-.grid .row{
-    margin-left: -3%;
-}
 	
 }
 
@@ -1759,14 +1691,6 @@ h2 {
                 
 .logo img{
     width: 60%;
-}
-	
-.grid{
-    display: block;
-}
-
-.grid .row{
-    margin-left: -3%;
 }	
 
 }
@@ -1781,14 +1705,6 @@ h2 {
     width: 20%;
     margin-top: 4%;
 }
-	
-.grid{
-    display: block;
-}
-
-.grid .row{
-    margin-left: -3%;
-}
                     
 .logo img{
     width: 50%;
@@ -1801,14 +1717,6 @@ h2 {
 
 .logo{
     display: none;
-}
-	
-.grid{
-    display: block;
-}
-
-.grid .row{
-    margin-left: -3%;
 }	
 
 .body{
@@ -1843,14 +1751,6 @@ h2 {
 
 .datos-1{
     margin-top: 150%;
-}
-	
-.grid{
-    display: block;
-}
-
-.grid .row{
-    margin-left: -3%;
 }	
 
 }
@@ -1883,10 +1783,6 @@ margin-top: 10%;
 .grid{
     display: block;
 }
-
-.grid .row{
-    margin-left: -3%;
-}
 	
 .tol h6{
     font-size: 15px;
@@ -1918,10 +1814,6 @@ margin-top: 10%;
 	
 .grid{
     display: block;
-}
-
-.grid .row{
-    margin-left: -3%;
 }
 	
 .tol h6{
@@ -1966,10 +1858,6 @@ margin-top: 10%;
 .grid{
     display: block;
 }
-
-.grid .row{
-    margin-left: -3%;
-}
 	
 .tol h6{
     font-size: 15px;
@@ -1995,10 +1883,6 @@ margin-top: 10%;
 	
 .grid{
     display: block;
-}
-
-.grid .row{
-    margin-left: -3%;
 }
 	
 .tol h6{
@@ -2034,10 +1918,6 @@ margin-top: 10%;
     display: block;
 }
 
-.grid .row{
-    margin-left: -3%;
-}	
-
 .btn{
     margin-left: 85%;
 }
@@ -2071,11 +1951,10 @@ table td{
     margin-bottom: 20%;
 }
 .grid{
+    margin-left: 25%;
     display: block;
-}
-
-.grid .row{
-    margin-left: -3%;
+    width: 75%;
+    padding: 10px;
 }
 
 .row p{
