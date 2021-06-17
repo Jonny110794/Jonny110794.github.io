@@ -1338,11 +1338,11 @@ strong{
 }
 
 .tol h6{
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .tol{
-    margin-left: 30%;
+    margin-left: 25%;
     width: 100%;
 }
 
@@ -1394,6 +1394,15 @@ font-size: 18px;
 .grid{
     display: block;
     width: 100%;		
+}
+	
+.tol h6{
+    font-size: 15px;
+}
+
+.tol{
+    margin-left: 25%;
+    width: 100%;
 }	
 
 }
@@ -1432,6 +1441,15 @@ h2 {
     display: block;
     width: 100%;		
 }
+	
+.tol h6{
+    font-size: 15px;
+}
+
+.tol{
+    margin-left: 25%;
+    width: 100%;
+}	
 
 }
 
@@ -1745,6 +1763,15 @@ margin-top: 10%;
 .grid{
     display: block;
     width: 100%;		
+}
+	
+.tol h6{
+    font-size: 15px;
+}
+
+.tol{
+    margin-left: 25%;
+    width: 100%;
 }	
 
 }
@@ -1770,6 +1797,15 @@ margin-top: 10%;
     display: block;
     width: 100%;		
 }
+	
+.tol h6{
+    font-size: 15px;
+}
+
+.tol{
+    margin-left: 25%;
+    width: 100%;
+}	
 
 }
 
@@ -1804,6 +1840,15 @@ margin-top: 10%;
 .grid{
     display: block;
     width: 100%;		
+}
+	
+.tol h6{
+    font-size: 15px;
+}
+
+.tol{
+    margin-left: 25%;
+    width: 100%;
 }	
 
 }
@@ -1822,6 +1867,15 @@ margin-top: 10%;
 .grid{
     display: block;
     width: 100%;		
+}
+	
+.tol h6{
+    font-size: 15px;
+}
+
+.tol{
+    margin-left: 25%;
+    width: 100%;
 }	
 
 }
@@ -1856,6 +1910,15 @@ margin-top: 10%;
 table td{
     font-size: 15px;
 }
+	
+.tol h6{
+    font-size: 15px;
+}
+
+.tol{
+    margin-left: 25%;
+    width: 100%;
+}	
 
 }
 
@@ -1921,6 +1984,15 @@ table td{
 
 .parra{
     margin-left:5%;
+}
+	
+	.tol h6{
+    font-size: 15px;
+}
+
+.tol{
+    margin-left: 25%;
+    width: 100%;
 }
 
 }
